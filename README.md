@@ -96,16 +96,6 @@ The dashboard enables users to identify which genres, publishers, and pricing st
 
 ---
 
-# 🚀 Future Improvements
-
-- Incorporate player activity data.
-- Analyze user review sentiment.
-- Compare AAA and Indie game performance.
-- Include historical price changes and discount analysis.
-- Expand the analysis using additional Steam metrics.
-
----
-
 # 🛠 Tools & Technologies
 
 - Tableau
