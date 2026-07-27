@@ -2,7 +2,7 @@
 
 This project explores a fictional Steam sales dataset through an interactive Tableau dashboard. The analysis focuses on identifying market trends, product performance, and the factors associated with successful video game sales.
 
-🔗 **Interactive Dashboard:** [https://public.tableau.com/views/EntregaFinalGuilln/Documentacin?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+🔗 **Interactive Dashboard:** [Tableau Public Link](https://public.tableau.com/views/EntregaFinalGuilln/Documentacin?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
