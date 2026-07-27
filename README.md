@@ -23,7 +23,7 @@ The objective of this project is to analyze Steam game sales and identify patter
 
 ### Source
 
-(https://www.kaggle.com/datasets/amanbarthwal/steam-store-data?resource=download)
+[View the dataset on Kaggle](https://www.kaggle.com/datasets/amanbarthwal/steam-store-data?resource=download)
 
 ### Dataset Description
 
